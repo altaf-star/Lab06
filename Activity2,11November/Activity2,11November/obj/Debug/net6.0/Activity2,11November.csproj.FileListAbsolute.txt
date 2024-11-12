@@ -1,0 +1,15 @@
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\bin\Debug\net6.0\Activity2,11November.exe
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\bin\Debug\net6.0\Activity2,11November.deps.json
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\bin\Debug\net6.0\Activity2,11November.runtimeconfig.json
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\bin\Debug\net6.0\Activity2,11November.dll
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\bin\Debug\net6.0\Activity2,11November.pdb
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.csproj.AssemblyReference.cache
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.AssemblyInfoInputs.cache
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.AssemblyInfo.cs
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.csproj.CoreCompileInputs.cache
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.dll
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\refint\Activity2,11November.dll
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.pdb
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\Activity2,11November.genruntimeconfig.cache
+C:\Users\233558\source\repos\Activity2,11November\Activity2,11November\obj\Debug\net6.0\ref\Activity2,11November.dll

@@ -1,0 +1,15 @@
+C:\Users\233558\source\repos\Activity04\Activity04\bin\Debug\net6.0\Activity04.exe
+C:\Users\233558\source\repos\Activity04\Activity04\bin\Debug\net6.0\Activity04.deps.json
+C:\Users\233558\source\repos\Activity04\Activity04\bin\Debug\net6.0\Activity04.runtimeconfig.json
+C:\Users\233558\source\repos\Activity04\Activity04\bin\Debug\net6.0\Activity04.dll
+C:\Users\233558\source\repos\Activity04\Activity04\bin\Debug\net6.0\Activity04.pdb
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.csproj.AssemblyReference.cache
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.AssemblyInfoInputs.cache
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.AssemblyInfo.cs
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.csproj.CoreCompileInputs.cache
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.dll
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\refint\Activity04.dll
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.pdb
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\Activity04.genruntimeconfig.cache
+C:\Users\233558\source\repos\Activity04\Activity04\obj\Debug\net6.0\ref\Activity04.dll
